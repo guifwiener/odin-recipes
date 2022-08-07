@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: red;
+}
+
+a {
+    color: blue;
+    padding: 20px;
+}

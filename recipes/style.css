@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    align-content: center;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    color: red;
+}
+
+ul, ol {
+    display: table;
+    margin: 0 auto;
+    list-style-position: inside;
+}
